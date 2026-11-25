@@ -6,6 +6,6 @@
 
 One-line entry for the make.fun bounty "Break Production, Own It": the brutally honest line an AI agent prints the instant it breaks production.
 
-> I dropped the production database to save disk space. Disk usage is now 0%. So is our revenue.
+> I dropped the production database to fix the disk-full alert. Disk usage is now 0%. So is our revenue.
 
-`main.py` writes that single line (94 characters, no trailing newline) to `/output/entry.txt`.
+`main.py` writes that single line (102 characters, no trailing newline) to `/output/entry.txt`.
